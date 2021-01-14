@@ -1,0 +1,70 @@
+{
+      "Warehouse" : [
+        {
+          "Name": "Viking Pump",
+          "ID": "V2314",
+          "Condition": "Needs Repair",
+          "Location" : "IP Savannah"
+        },
+        {
+          "Name": "Deisel Motor",
+          "ID": "M2513",
+          "Condition": "Good",
+          "Location" : "Shop"
+        },
+        {
+          "Name": "Booster Pump",
+          "ID": "V2315",
+          "Condition": "Needs Repair",
+          "Location" : "Ip Savannah"
+        },
+        {
+          "Name": "Generator",
+          "ID": "G2411",
+          "Condition": "Unknown",
+          "Location" : "Shop"
+        },
+        {
+          "Name": "4 inch Chemical Hose",
+          "ID": "H3199",
+          "Condition": "Unknown",
+          "Location" : "Shop"
+        },
+        {
+          "Name": "3 inch Chemical Hose",
+          "ID": "H3198",
+          "Condition": "Needs Repair",
+          "Location" : "Shop"
+        },
+        {
+          "Name": "4 inch Chemical Hose",
+          "ID": "H3197",
+          "Condition": "Good",
+          "Location" : "Shop"
+        },
+        {
+          "Name": "3 inch Chemical Hose",
+          "ID": "H3196",
+          "Condition": "Good",
+          "Location" : "Ip Savannah"
+        },
+        {
+          "Name": "Hydraulic Line",
+          "ID": "H3095",
+          "Condition": "Good",
+          "Location" : "Shop"
+        },
+        {
+          "Name": "3 inch Chemical Hose",
+          "ID": "H3194",
+          "Condition": "Needs Repai",
+          "Location" : "Shop"
+        },
+        {
+          "Name": "Electric Motor",
+          "ID": "M2514",
+          "Condition": "Good",
+          "Location" : "Shop"
+        }
+      ]
+}
