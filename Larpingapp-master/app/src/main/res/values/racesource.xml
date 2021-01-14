@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="race_array">
+    <item>Human</item>
+    <item>Vampire</item>
+    <item>Zombie</item>
+        <item>Skeleton</item>
+        <item>Ghost</item>
+        <item>Shadow Bound</item>
+        <item>Elf</item>
+        <item>Drow</item>
+        <item>Sap</item>
+        <item>Dwarf</item>
+        <item>Orc</item>
+        <item>Goblin</item>
+        <item>Satyr</item>
+        <item>Lizard Men</item>
+        <item>Inheritor</item>
+        <item>Monstrous Creature</item>
+        <item>Lycanthrope</item>
+    </string-array>
+</resources>

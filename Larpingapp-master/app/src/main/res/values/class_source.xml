@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="class_array">
+    <item>Fighter</item>
+    <item>Support</item>
+    <item>Stealth</item>
+        <item>Magic</item>
+        <item>Hybrid</item>
+    </string-array>
+</resources>
